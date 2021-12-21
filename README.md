@@ -1,4 +1,3 @@
-# Referee
-## Simplifying the submission of game sheets
------
-As a referee, one of the things that I have to do often is submit game sheets. And, with a little bit of python knowledge, I have been able to find a way to make this process much easier.
+# Game Sheet Submission
+
+As a soccer referee, one of my responsibilities is ensuring that game sheets, containing final scores and sign off from team officials are submitted to the league at the end of every game. As one of my first forays into Python, I decided to learn how I could automate and simplify this process in order to help make one of the less enjoyable parts of refereeing a little bit less annoying. By ultimately using a number of packages to merge PDF's and automate email sending, I was able to successfully simplify this process, while learning about the power of automation in Python. 
